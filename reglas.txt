@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 reglas sobres esto
 purueba
+=======
+reglas
+modificacion
+>>>>>>> original/master
